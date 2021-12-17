@@ -19,7 +19,8 @@ Femonationalism is a growing phenomenon that motivated Sara R. Farris to publish
 <img src = "https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/title_book.JPG">
 <img src = "https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/in_the_name_book.jpg">
 
-We can indeed observe a peak in the number of citations in 2017 referring to the concept of femonationalism, in particular due to the notoriety of his book.
+We can observe a peak in the number of quotes in 2017 referring to the concept of femonationalism, potentially on account of the notoriety of her book that has been widely refered to.
+
 <p align = "center">
 <img src = "https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_timeline.JPG">
 </p>
@@ -33,7 +34,7 @@ We can indeed observe a peak in the number of citations in 2017 referring to the
 	</small>
 </p>
 
-Many quotes during this period have negative connotations. They appear in the middle of 2017, in dark blue on the following histogram:
+Many quotes during the mid-2017 have negative connotations and are appearing in dark blue on the following histogram:
 
 <p align = "center">
 <img src = "https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_histplot.JPG">
@@ -48,7 +49,7 @@ Many quotes during this period have negative connotations. They appear in the mi
 	</small>
 </p>
 
-We have succeeded in isolating, thanks to Vader, the most frequent negated keywords of these quotes. Quotes with negative connotations deal with the terror of women and their oppression. Of all the quotes related to femonationalism during mid-2017, the word **_persecution_** was mentioned 24 times, **_murder_** 21 times, **_innocent_** 21 times and **_slaughter_** 20 times.
+We have succeeded in isolating, thanks to Vader, the most frequent negative keywords of these quotes. The quotes with negative connotations deal with the terror of women and their oppression. Of all the quotes related to femonationalism during mid-2017, the word **_persecution_** was mentioned 24 times, **_murder_** 21 times, **_innocent_** 21 times and **_slaughter_** 20 times.
 
 We could relate this observation to the Trump affair that took place in December 2017 (see [Women's right and gender equality in quotes, an ADA story](https://unesmu.github.io/2021-12-11-RQ2/)).
 
