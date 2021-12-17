@@ -8,7 +8,7 @@ tags: []
 comments: true
 ---
 
-_The topic analysis carried out in the section [What do people talk about?](https://unesmu.github.io/2021-12-12-RQ3/) resulting from a clustering work to synthesize all the quotes dealing with Women's Rights.
+_The topic analysis carried out in the section [What do people talk about?](https://unesmu.github.io/2021-12-12-RQ3/) results from a clustering work to represent in a synthetic manner all the quotes dealing with Women's Rights from 2015 to 2020.
 We are then interested in extracting from all these quotes those which relate to femonationalism and therefore which specifically use the key words **_muslim_**, **_women_**, **_hijab_** and **_oppression_** as appear in the following quote._
 
 Femonationalism is a growing phenomenon that prompted Sara R. Farris to publish a book in 2017 on feminism and women's rights.
@@ -25,7 +25,7 @@ We can indeed observe a peak in the number of citations in 2017 referring to the
 	<small> 
 		<i> 
 			<b>
-        Fig.5.1 - distribution of quotation refering to femonationalism from 2015 to 2020
+        			Fig.5.1 - distribution of quotation refering to femonationalism from 2015 to 2020
 			</b> 
 		</i>
 	</small>
