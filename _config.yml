@@ -8,11 +8,13 @@
 # Name of website
 title:  Women's right and gender equality in quotes, an ADA story
 
+
 # Your name to show in the footer
 author: concatsandogs team
 
 # --- List of links in the navigation bar --- #
 
+future: true # maybe will make the website update
 navbar-links:
   About Me: "hello test"
   Resources:
