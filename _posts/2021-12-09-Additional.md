@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quotebank's explanation of the rise femonationalism
+title: Quotebank's explanation of the rise of femonationalism
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 thumbnail: /assets/img/all_quotes_polarization.png 
