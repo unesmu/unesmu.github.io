@@ -8,7 +8,7 @@ tags: []
 comments: true
 ---
 
-The topic analysis carried out in the part [What do people talk about?] (https://unesmu.github.io/2021-12-12-RQ3/) resulting from a clustering work aiming to synthesize all the quotes dealing directly or indirectly with women's rights.
+The topic analysis carried out in the part [What do people talk about?](https://unesmu.github.io/2021-12-12-RQ3/) resulting from a clustering work aiming to synthesize all the quotes dealing directly or indirectly with women's rights.
 
 We are then interested in extracting from all these quotes those which relate to femonationalism and therefore which specifically use the key words muslim, women, hijab and oppression as appear in the following quote.
 
