@@ -14,8 +14,12 @@ comments: true
 Le topic analysis réalisé (citer partie site web younes, travail de clustering pour isoler les topic les plus fréquents) a permis de mieux visualiser l'ensemble des quotations traitant de proche ou de loin du droit des femmes
 d'extraire parmi l'ensemble des citations celles qui se rapportaient au femonationalisme (qui utilisaient specifiquement des mots clés liés au femonationalisme : muslim, women, hijab, opression), concept inventé en 2017 par dans son livre (rajouter citations)
 
-On observe en effet, un pic du nombre de citations se référant au concept de femonationalism en 2017. Cela peut potentiellement coincider avec la sortie du livre.
+On observe en effet, un pic du nombre de citations se référant au concept de femonationalism en 2017.
 ![femo_timeline](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_timeline.JPG)
+
+Cela peut potentiellement coincider avec la sortie du livre.
+![femo_livre](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/title_book.JPG)
+![femo_livre](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/in_the_name_book.jpg)
 
 De nombreuse citations durant cette périodes sont à connotation négative et se réfèrent en majeur partie à de la (persecution (présent 24 fois), murder (21 fois), innocent (21 fois), slaughter (20 fois)).
 ![femo_histplot](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_histplot.JPG)
