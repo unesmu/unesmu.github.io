@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Some more analysis
-subtitle: If we find smth else on our way
+title: Quotebank's explanation of the rise femonationalism
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 thumbnail: /assets/img/all_quotes_polarization.png 
@@ -9,26 +8,23 @@ tags: []
 comments: true
 ---
 
-![trans_timeline](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/trans_timeline.JPG)
+Le topic analysis réalisé dans la partie [What do people talk about?](https://unesmu.github.io/2021-12-12-RQ3/) issue d'un travail de clustering visant à synthétiser l'ensemble des citations traitant de proche ou de loin au droit des femmes.
 
-Le topic analysis réalisé (citer partie site web younes, travail de clustering pour isoler les topic les plus fréquents) a permis de mieux visualiser l'ensemble des quotations traitant de proche ou de loin du droit des femmes
-d'extraire parmi l'ensemble des citations celles qui se rapportaient au femonationalisme (qui utilisaient specifiquement des mots clés liés au femonationalisme : muslim, women, hijab, opression), concept inventé en 2017 par dans son livre (rajouter citations)
+On s'intéresse alors à extraire parmi l'ensemble de ces citations celles qui se rapportent au femonationalisme et donc qui utilisent spéciallement les mots clés de muslim, women, hijab et d'opression tels qu'apparaissent dans la suivante citation.
 
-On observe en effet, un pic du nombre de citations se référant au concept de femonationalism en 2017.
-![femo_timeline](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_timeline.JPG)
-
-Cela peut potentiellement coincider avec la sortie du livre.
+Le femonationalisme est un phénomène qui a pris de l'ampleur et qui a poussé Sara R. Farris à publier un livre en 2017 sur le féminisme et le droit des femmes.
 ![femo_livre](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/title_book.JPG)
 ![femo_livre](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/in_the_name_book.jpg)
 
-De nombreuse citations durant cette périodes sont à connotation négative et se réfèrent en majeur partie à de la (persecution (présent 24 fois), murder (21 fois), innocent (21 fois), slaughter (20 fois)).
+On observe en effet, un pic du nombre de citations en 2017 se référant au concept de femonationalism, notamment de par la notoriété de son livre.
+![femo_timeline](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_timeline.JPG)
+
+De nombreuse citations durant cette période sont à connotation négative. Elles apparaissent au milieu de l'année 2017, en bleu foncé sur l'histogramme suivant:
 ![femo_histplot](https://raw.githubusercontent.com/unesmu/unesmu.github.io/master/assets/img/femo_histplot.JPG)
 
-Nous avons réussi a isoler, grâce à Vader les mots clés négatis les plus fréquents dans les citations. Les citations à connotation négatives traitent de la terreur des femmes et de leur opression.
-Nous pouvons rapprocher cela bien que l'affaire de Trump pourrait (ayant eu lieu également en 2017) pourrait très bien en être une explication.
+Nous avons réussi a isoler, grâce à Vader les mots clés négatis les plus fréquents de ces citations. Les citations à connotation négatives traitent de la terreur des femmes et de leur opression. Sur l'ensemble des citations liées au femonationalisme au cours de la mi-année 2017, le mot **_persecution_** a été mentionné 24 fois, **_murder_** 21 fois, **_innocent_** 21 fois et **_slaughter_** 20 fois.
 
-L'explication la plus probable reste toutefois la montée en puissance du femonationalisme car ces termes se référant à l'opression et à la terreur se mèlent au vocabulaire islamophobe fréquemment employés (muslim (541 fois), muslims (48 fois)) aussi bien aux U.S. qu'ailleurs par les parties politiques extremistes et racistes.
-Ces parties cherchent généralement à susciter la peur en employant un tel vocabulaire que Vader a pu jugé négatif.
+Nous pourrions rapprocher cette observation à l'affaire Trump ayant eu lieu en Décembre 2017.
 
-
-essayer de leur faire peur (femonationaliste)
+Toutefois, l'explication la plus censée reste la montée en puissance du femonationalisme car les termes utilisés se référant à l'opression et à la terreur se mèlent au vocabulaire islamophobe fréquemment employés aussi bien aux U.S. qu'ailleurs par les parties politiques extremistes et racistes.
+Ces parties cherchent généralement à susciter la peur en employant un tel vocabulaire que Vader a pu jugé négatif (muslim (541 fois), muslims (48 fois)).
