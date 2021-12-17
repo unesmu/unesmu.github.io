@@ -49,7 +49,7 @@ Many quotes during the mid-2017 have negative connotations and are appearing in 
 	</small>
 </p>
 
-We have succeeded in isolating, thanks to Vader, the most frequent negative keywords of these quotes. The quotes with negative connotations deal with the terror of women and their oppression. Of all the quotes related to femonationalism during mid-2017, the word **_persecution_** was mentioned 24 times, **_murder_** 21 times, **_innocent_** 21 times and **_slaughter_** 20 times.
+We have succeeded in isolating, thanks to Vader, the most frequent negative keywords of these quotes. These negative quotes are mentionning in particular women oppression. Of all the quotes related to femonationalism during mid-2017, the word **_persecution_** was mentioned 24 times, **_murder_** 21 times, **_innocent_** 21 times and **_slaughter_** 20 times.
 
 We could relate this observation to the Trump affair that took place in December 2017 (see [Women's right and gender equality in quotes, an ADA story](https://unesmu.github.io/2021-12-11-RQ2/)).
 
