@@ -9,9 +9,9 @@ comments: true
 ---
 
 _The topic analysis carried out in the section [What do people talk about?](https://unesmu.github.io/2021-12-12-RQ3/) provided us a clustered representation of all the quotes from Quotebank's database from 2015 to 2020 dealing with Women's Rights.
-We are now interested in explaining the quotes linked to femonationalism topic and thus explicitely making use of the main keywords **_muslim_**, **_women_**, **_hijab_** and **_oppression_** as it is appearing in the following quote:
+We are now interested in explaining the quotes linked to femonationalism topic and thus explicitely making use of the main keywords **_muslim_**, **_women_**, **_hijab_** and **_oppression_** as it is appearing in the following quote:_
 
-> By refusing to conform to the `hijabi stereotype' , these westernised Muslim women have made it impossible for Left-leaning white saviours to covertly milk this stereotype, in our heroic battle against stereotyping._
+> By refusing to conform to the `hijabi stereotype' , these westernised Muslim women have made it impossible for Left-leaning white saviours to covertly milk this stereotype, in our heroic battle against stereotyping.
 
 Femonationalism is a growing phenomenon that motivated Sara R. Farris to publish a book in 2017 on feminism and women's rights.
 
